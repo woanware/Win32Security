@@ -1,7 +1,7 @@
 **Win32Security**
 
 This is a fork of a the Win32Security library written by 
-Renaud Paquay, who I believe is a Microsoft employee. H
+Renaud Paquay, who I believe is a Microsoft employee. I have modified to include some service related access masks.
 
 **Description**
 	  
